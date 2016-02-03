@@ -1,3 +1,7 @@
-p { 
-color: red; font-family: Verdana; 
+p {
+color: red; font-family: Verdana;
+}
+
+h3{
+  color: blue; font-family: Arial;
 }
